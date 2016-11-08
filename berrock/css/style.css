@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia');
+body {
+  font-family: "Open Sans", sans-serif;
+}
+h1{
+  font-family: 'UnifrakturMaguntia', cursive;
+  text-align: center;
+  float: left;
+}
+header div{
+  height: 10px;
+  background-image: url(../img/berrockbanner.jpg);
+}
